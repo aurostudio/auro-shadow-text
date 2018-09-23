@@ -1,0 +1,23 @@
+name: auro_shadow_text
+description: A flutter plugin to generate a shadow text.
+version: 0.1.0
+author: Auro Studio Team <admin@aurostudio.com>
+homepage: https://github.com/aurostudio/auro-shadow-text
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  plugin:
+    androidPackage: com.aurostudio.flutter.auroshadowtext
+    pluginClass: AuroShadowTextPlugin
