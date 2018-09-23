@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/aurostudio/auro-shadow-text.svg?branch=master)](https://travis-ci.org/aurostudio/auro-shadow-text)
 [![pub package](https://img.shields.io/pub/v/auro_shadow_text.svg)](https://pub.dartlang.org/packages/auro_shadow_text)
 
-A flutter plugin to generate a shadow text.
+A flutter plugin to generate a shadow text widget from a string.
 
 ## How to import
 
